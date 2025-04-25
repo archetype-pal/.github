@@ -5,6 +5,12 @@ This is the central hub for all things Archetype — a modular and extensible pl
 
 ---
 
+## 📙 About Archetype
+
+Archetype is freely-available software for structured annotations of images which allows users to search for, view, and organise detailed characteristics of handwriting or other material in both verbal and visual form. Designed primarily for the palaeographical analysis of handwriting, Versions 1 and 2 were developed and maintained by King's Digital Lab at King's College London for the [DigiPal](https://digipal.eu), [Models of Authority](https://www.modelsofauthority.ac.uk) and [Exon Domesday](https://www.exondomesday.ac.uk) projects and are still available from the [KDL GitHub repository](https://github.com/kcl-ddh/digipal). The current version (Archetype 3) is a complete rewrite of the software supported by the [OG(H)AM project](https://ogham.glasgow.ac.uk) at the University of Glasgow. 
+
+---
+
 ## 🚀 Getting Started
 
 To set up Archetype in a **production environment**, please follow the instructions in the  
